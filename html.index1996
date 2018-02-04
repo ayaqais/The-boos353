@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en"lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="description"content=" حجز طيران بارخص الاسعار">
+<title>RAHLAT FOR RESERVATION</title>
+<script>welcome to our site</script>
+<link rel="stylesheet"href="css/style.css2"type="text/css"/>
+</head>
+<body background="http://www.technocrazed.com/wp-content/uploads/2015/12/New-York-Wallpaper-Background-9.jpg"style="background-size:cover">
+<div class="fahriea">
+<img src="http://www.rahlat.com/img/rahlat.png"position:right>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h1>English|IDQ</h1>&nbsp;&nbsp;&nbsp;&nbsp;
+<h1>طيران</h1>&nbsp;&nbsp;&nbsp;&nbsp;
+<h1>فنادق</h1>&nbsp;&nbsp;&nbsp;&nbsp;
+<h1>تأجيرسيارات</h1>&nbsp;&nbsp;&nbsp;
+<h1>وجهات السفر</h1>&nbsp;&nbsp;&nbsp;
+</div>
+<br><br><br><br>
+<h1 class="reem"><center>طيران</h1><center>
+<img src="http://www.rahlat.com/img/icon-flight.png"><center>
+<img src="http://www.rahlat.com/img/icon-hotel.png">
+<h1><center>فنادق</h1>
+<div>أرخص طيران!نقارن رحلات من جميع شركات الطيران ونقدم لك أفضل الاسعار</div>
+<input class="aya" type="placeholder"value="مدن متعددة"></input>&nbsp;&nbsp;&nbsp;
+<input class="aya" type="placeholder"value="ذهاب فقط"></input>&nbsp;&nbsp;&nbsp;
+<input class="aya" type="placeholder"value="ذهاب وعودة"></input>&nbsp;&nbsp;&nbsp;<br><br>
+<input class="qais" type="placeholder"value="1راكب"></input>&nbsp;&nbsp;&nbsp;
+<input class="qais" type="placeholder"value="2017-07-12"></input>&nbsp;&nbsp;&nbsp;
+<input class="qais"type="placeholder"value="2017-07-05"></input>&nbsp;&nbsp;&nbsp;
+<input class="qais" type="placeholder"value="الى"></input>&nbsp;&nbsp;&nbsp;
+<input class="qais"type="placeholder"value="من"></input>&nbsp;&nbsp;&nbsp;
+<input class="hello"type="placeholder"value="بحث"></input>&nbsp;&nbsp;&nbsp;
+<lable class="www">دبي</lable>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<lable class="ppp">القاهرة</lable>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<lable class="rrr">بيروت</lable>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img class="know" src="http://www.rahlat.com/img/destination/Beirut.jpg">&nbsp;&nbsp;
+<img class="know" src="http://www.rahlat.com/img/destination/Cairo.jpg">&nbsp;&nbsp;
+<img class="know" src="http://www.rahlat.com/img/destination/Dubai.jpg"alt="دبي">&nbsp;&nbsp;
+</body>
+</html>
